@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Prompt Playground logs
+.prompt-history/
+
+# Secrets
+.env

@@ -1,0 +1,8 @@
+few_shot_examples: []
+model: gpt-3.5-turbo
+name: summarize
+prompt: |
+  Summarize the following text in 1 sentence:
+  {input}
+provider: openai
+temperature: 0.7

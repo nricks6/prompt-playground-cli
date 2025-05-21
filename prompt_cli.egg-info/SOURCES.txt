@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+prompt_cli/__init__.py
+prompt_cli/cli.py
+prompt_cli.egg-info/PKG-INFO
+prompt_cli.egg-info/SOURCES.txt
+prompt_cli.egg-info/dependency_links.txt
+prompt_cli.egg-info/entry_points.txt
+prompt_cli.egg-info/requires.txt
+prompt_cli.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: prompt-cli
+Version: 0.1
+Summary: CLI tool for prompt engineering
+Author: Nathan Ricks
+License: MIT
+Requires-Dist: click
+Requires-Dist: openai
+Requires-Dist: pyyaml

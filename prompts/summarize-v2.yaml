@@ -1,0 +1,8 @@
+few_shot_examples: []
+model: gpt-3.5-turbo
+name: summarize-v2
+prompt: |
+  You're an expert journalist. Write a concise one-line summary of this:
+  {input}
+provider: openai
+temperature: 0.7
